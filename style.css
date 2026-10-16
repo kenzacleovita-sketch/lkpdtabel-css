@@ -163,6 +163,11 @@ tbody tr:nth-child(even) {
     }
 }   
 
+h3 {
+    color: steelblue;
+    margin-bottom: 25px;
+}
+
 #mahasiswa {
     width: 100%;
     border-collapse: collapse;
