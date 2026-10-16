@@ -218,6 +218,8 @@ tbody tr:nth-child(even) {
     }
 
     #mahasiswa {
+        color: steelblue;
+        margin-bottom: 25px;
         font-size: 9px;
     }
 
